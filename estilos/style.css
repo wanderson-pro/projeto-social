@@ -41,7 +41,6 @@ main {
 }
 
 #redes-sociais {
-    position: relative;
     display: flex;
     align-items: flex-end;
     flex-direction: column;
